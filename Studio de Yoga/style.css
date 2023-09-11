@@ -1,0 +1,104 @@
+
+body, h1, h2, h3, p, blockquote, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+.cabecalho {
+    background-image: url('yoga-header.jpg'); /* Substitua pela imagem desejada */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.texto-cabecalho h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.texto-cabecalho p {
+    font-size: 18px;
+}
+
+.aulas {
+    padding: 40px;
+    text-align: center;
+}
+
+.aula {
+    margin-bottom: 20px;
+}
+
+.aula img {
+    max-width: 100%;
+    height: auto;
+}
+
+.aula h3 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.depoimentos {
+    background-color: #fff;
+    padding: 40px;
+}
+
+.depoimento blockquote {
+    font-style: italic;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.depoimento p {
+    font-weight: bold;
+}
+
+.sobre {
+    padding: 40px;
+    text-align: center;
+}
+
+.sobre p {
+    font-size: 16px;
+}
+
+.contato {
+    background-color: #f5f5f5;
+    padding: 40px;
+    text-align: center;
+}
+
+.contato p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.rodape {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.imagem-redimensionada {
+    width: 1000px;
+    height: 100px;
+    object-fit: cover;
+}
+.imagem-de-fundo {
+    background-image: url('R.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 120vh;
+    margin: 0;
+    padding: 0;
+}
