@@ -10,7 +10,7 @@ body {
 }
 
 .cabecalho {
-    background-image: url('yoga-header.jpg'); /* Substitua pela imagem desejada */
+    background-image: url('yoga-header.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
